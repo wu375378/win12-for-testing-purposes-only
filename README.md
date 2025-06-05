@@ -1,3 +1,5 @@
+>This repository is for testing purposes only. It will be updated as the updates become available.
+
 > [!NOTE]
 > 无偿请求帮助我们翻译此项目！目前暂仅需英语。详见[此](lang/readme.md)。
 
